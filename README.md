@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Siddhi-1015
 - 👀 I’m interested in  web development
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on web devlopment ,Python developer
+- 💞️ I’m looking to collaborate on web development ,Python developer
 - 📫 How to reach me siddhipanchal096@gmail.com
 - 😄 Pronouns: Siddhi
 - ⚡ Fun fact: Coding is Fun Enjoy !
